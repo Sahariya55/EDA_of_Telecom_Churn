@@ -12,14 +12,14 @@ The dataset comprises meticulously cleaned customer activity data, encompassing 
 
 **Project Activities :-**
 
-Defining the Problem Statement
-Defining Business Objective
-Knowing and Understanding the Data
-Understanding the Variables
-Data Wrangling
-Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
-Solution to Business Objective
-Conclusion
+1. Defining the Problem Statement
+2. Defining Business Objective
+3. Knowing and Understanding the Data
+4. Understanding the Variables
+5. Data Wrangling
+6. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
+7. Solution to Business Objective
+8. Conclusion
 
 **Problem Statement**
 
@@ -29,7 +29,7 @@ In the fiercely competitive telecommunications landscape, Orange S.A. faces a cr
 
 The primary objective is to reduce customer churn and enhance retention rates within Orange Telecom's subscriber base. This entails:
 
-Identifying the key factors contributing to customer churn through comprehensive data analysis.
-Developing actionable insights to inform targeted retention strategies.
-Implementing initiatives aimed at improving customer satisfaction, loyalty, and long-term engagement.
-Ultimately, increasing customer lifetime value (CLV) and fortifying Orange S.A.'s position in the telecommunications market.
+1. Identifying the key factors contributing to customer churn through comprehensive data analysis.
+2. Developing actionable insights to inform targeted retention strategies.
+3. Implementing initiatives aimed at improving customer satisfaction, loyalty, and long-term engagement.
+4. Ultimately, increasing customer lifetime value (CLV) and fortifying Orange S.A.'s position in the telecommunications market.
