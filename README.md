@@ -1,6 +1,7 @@
 # EDA_of_Telecom_Churn
 
 **Project Summary** -
+
 **Introduction:**
 
 Orange S.A., a prominent player in the telecommunications industry, faces the challenge of retaining its customer base amidst fierce competition and evolving consumer preferences. In an era where customer retention directly impacts revenue and market share, understanding the factors influencing churn is crucial. This project aims to delve into Orange Telecom's Churn Dataset, leveraging data analysis techniques to uncover insights and devise effective strategies for enhancing customer retention.
